@@ -1,3 +1,3 @@
 # python_jupyter_notebooks
 
-Project for general practice with Jupyter notebooks
+Repository for general practice with Jupyter notebooks
